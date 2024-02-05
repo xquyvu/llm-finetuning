@@ -1,0 +1,4 @@
+__pycache__
+.mypy_cache
+lamini_docs_3_steps
+lm-evaluation-harness
